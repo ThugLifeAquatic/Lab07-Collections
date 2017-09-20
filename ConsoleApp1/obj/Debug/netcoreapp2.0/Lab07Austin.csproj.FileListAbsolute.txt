@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\Lab07-Collections\ConsoleApp1\bin\Debug\netcoreapp2.0\Lab07Austin.deps.json
+C:\Users\acohr\source\repos\Lab07-Collections\ConsoleApp1\bin\Debug\netcoreapp2.0\Lab07Austin.runtimeconfig.json
+C:\Users\acohr\source\repos\Lab07-Collections\ConsoleApp1\bin\Debug\netcoreapp2.0\Lab07Austin.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\Lab07-Collections\ConsoleApp1\bin\Debug\netcoreapp2.0\Lab07Austin.dll
+C:\Users\acohr\source\repos\Lab07-Collections\ConsoleApp1\bin\Debug\netcoreapp2.0\Lab07Austin.pdb
+C:\Users\acohr\source\repos\Lab07-Collections\ConsoleApp1\obj\Debug\netcoreapp2.0\Lab07Austin.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\Lab07-Collections\ConsoleApp1\obj\Debug\netcoreapp2.0\Lab07Austin.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\Lab07-Collections\ConsoleApp1\obj\Debug\netcoreapp2.0\Lab07Austin.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\Lab07-Collections\ConsoleApp1\obj\Debug\netcoreapp2.0\Lab07Austin.AssemblyInfo.cs
+C:\Users\acohr\source\repos\Lab07-Collections\ConsoleApp1\obj\Debug\netcoreapp2.0\Lab07Austin.dll
+C:\Users\acohr\source\repos\Lab07-Collections\ConsoleApp1\obj\Debug\netcoreapp2.0\Lab07Austin.pdb
